@@ -1,2 +1,2 @@
 # textutils
- My firdt react app named TextUtils 
+ My first react app named TextUtils 
